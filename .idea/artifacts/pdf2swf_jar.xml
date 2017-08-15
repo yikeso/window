@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pdf2swf:jar">
+    <output-path>$PROJECT_DIR$/../window/out/artifacts/pdf2swf_jar</output-path>
+    <root id="archive" name="pdf2swf.jar">
+      <element id="module-output" name="pdf2swf" />
+    </root>
+  </artifact>
+</component>
